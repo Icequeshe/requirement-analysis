@@ -39,3 +39,22 @@ Requirement Analysis is vital to the success of any software project. Without it
 4. **Supports Better Decision-Making**  
    Well-documented requirements provide stakeholders with the information needed to make informed decisions about features, priorities, and resources.  
 
+---
+
+## Key Activities in Requirement Analysis
+The process of Requirement Analysis involves several structured activities that ensure requirements are properly identified, understood, and validated. The key activities are:
+
+- **Requirement Gathering**  
+  Collecting initial information from stakeholders, customers, and other sources to understand the overall goals and expectations of the project.  
+
+- **Requirement Elicitation**  
+  Using techniques such as interviews, surveys, brainstorming, and workshops to uncover detailed requirements from stakeholders.  
+
+- **Requirement Documentation**  
+  Clearly recording requirements in a structured format, such as Software Requirement Specifications (SRS), user stories, or use cases, to provide a reference for the entire team.  
+
+- **Requirement Analysis and Modeling**  
+  Examining requirements to ensure they are complete, consistent, and feasible. This may include creating models such as data flow diagrams, process models, or prototypes to visualize requirements.  
+
+- **Requirement Validation**  
+  Ensuring that the documented requirements accurately represent stakeholder needs and align with business objectives. Validation often involves reviews, walkthroughs, or prototyping.  
