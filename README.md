@@ -100,3 +100,26 @@ Use case diagrams are part of the Unified Modeling Language (UML) and are common
 Below is a use case diagram for the **Booking Management System** showing interactions between actors (Customer, Administrator) and the system:  
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
+
+## Acceptance Criteria
+**Acceptance Criteria** are a set of predefined conditions or requirements that a software product must meet to be accepted by stakeholders, users, or customers. They define the boundaries of a user story or requirement and serve as a checklist to determine whether a feature has been implemented correctly.  
+
+### Importance of Acceptance Criteria
+- **Clarifies Expectations:** Provides a shared understanding between stakeholders, developers, and testers on what “done” means.  
+- **Improves Quality:** Ensures features are developed according to user needs and business objectives.  
+- **Guides Development:** Helps developers focus on building functionality that matches the agreed requirements.  
+- **Facilitates Testing:** Serves as a basis for creating test cases to verify whether the system behaves as expected.  
+- **Reduces Miscommunication:** Minimizes the risk of misunderstandings by defining requirements in simple, testable terms.  
+
+### Example: Checkout Feature in Booking Management System
+**User Story:**  
+_As a customer, I want to complete my booking through a checkout process so that I can confirm and pay for my reservation._  
+
+**Acceptance Criteria:**  
+- The system should display a **summary of booking details** (service, date, time, and cost) before confirming.  
+- The user should be able to select a **payment method** (e.g., credit card, PayPal).  
+- The system must validate **payment information** and show an error for invalid entries.  
+- A **confirmation message and receipt** should be displayed once payment is successful.  
+- The system should send a **confirmation email or SMS** to the customer after checkout.  
+- If payment fails, the system should allow the user to **retry or choose another method**.  
+
